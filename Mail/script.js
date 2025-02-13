@@ -1,16 +1,26 @@
-/* Mail
-Crea una lista di email di invitati ad una festa.
-Chiedi all’utente la sua email, controlla che sia nella lista di chi può accedere,
-  stampa un messaggio appropriato sull’esito del controllo.
 
-Lo svolgimento va fatto usando un ciclo for è non usando metodi degli array(come includes, per esempio).Si puó fare ??
-  eh si!  Basta ragionare un po’.
-: puntare_a_destra: Bonus:
-Dopo aver svolto l'esercizio con il for  fai una cartella bonus e svolgilo anche anche usando un metodo delle array tipo includes
-Nota: Non è necessario provvedere alla validazione delle email
+// Create a list of emails of people invited to the party
+
+let invited_people = ["davide.morisco@gmail.com", "luca.luca@gmail.com", "fabio.fabio@gmail.com", "lorem.lorem@lorem.com", "ipsum.ipsum@ipsum.com"]
+console.log(invited_people);
+
+// Ask the user their email, and check if it's in the invited people list
 
 
-*/
+// Print a message that says the outcome of the verification check
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
